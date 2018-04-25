@@ -9,11 +9,11 @@ aux collaborateurs
 
 ### Cloner avec ssh
 
-    $ git clone git@github.com:ioO/cowork-in-montpellier.git
+    $ git clone git@github.com:cowork-in-montpellier/cowork-in-montpellier.git
 
 ### Cloner avec https
 
-    $ git clone https://github.com/ioO/cowork-in-montpellier.git
+    $ git clone https://github.com/cowork-in-montpellier/cowork-in-montpellier.git
 
 ### Branches
 
